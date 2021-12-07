@@ -1,0 +1,185 @@
+{
+  "title": "Tashi Dorji",
+  "pageID": 59606448,
+  "categories": [
+    "Members of the National Council (Bhutan)",
+    "1981 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tashi Dorji (བཀྲིས་རྡོ་རྗེ།) is a Bhutanese politician who is the current Chairman of the National Council of Bhutan.",
+              "links": [
+                {
+                  "text": "Chairman of the National Council of Bhutan",
+                  "type": "internal",
+                  "page": "National Council of Bhutan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tashi Dorji"
+                ]
+              }
+            },
+            {
+              "text": "He has been a member of the National Council of Bhutan since May 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Council of Bhutan"
+                }
+              ]
+            },
+            {
+              "text": "Previously, he was a member of the National Council of Bhutan from 2013 to 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Council of Bhutan"
+                }
+              ]
+            },
+            {
+              "text": "He is the youngest Chairman of the Upper house of Bhutan."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected as Chairman of the National Council of Bhutan."
+            },
+            {
+              "text": "He received 11 votes out of total 25 votes cast and defeated Lhatu and Nima.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lhatu"
+                },
+                {
+                  "text": "Nima",
+                  "type": "internal",
+                  "page": "Nima (politician)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bhutanese politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tashi Dorji"
+          },
+          "native_name": {
+            "text": "བཀྲིས་རྡོ་རྗེ།"
+          },
+          "image": {
+            "text": "Tashi Dorji.jpg"
+          },
+          "office": {
+            "text": "Chairman of the National Council of Bhutan",
+            "links": [
+              {
+                "text": "Chairman of the National Council of Bhutan",
+                "type": "internal",
+                "page": "National Council of Bhutan"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 May 2018"
+          },
+          "predecessor": {
+            "text": "Sonam Kinga"
+          },
+          "deputy": {
+            "text": "Jigme Wangchuk",
+            "links": [
+              {
+                "text": "Jigme Wangchuk",
+                "type": "internal",
+                "page": "Jigme Wangchuk (National Council member)"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the National Council of Bhutan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Council of Bhutan"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "10 May 2018"
+          },
+          "predecessor1": {
+            "text": "himself"
+          },
+          "constituency1": {
+            "text": "Wangdue Phodrang"
+          },
+          "term_start2": {
+            "text": "2013",
+            "number": 2013
+          },
+          "term_end2": {
+            "text": "2018",
+            "number": 2018
+          },
+          "predecessor2": {
+            "text": "Sonam Yangchen"
+          },
+          "constituency2": {
+            "text": "Wangdue Phodrang"
+          },
+          "nationality": {
+            "text": "Bhutanese"
+          },
+          "birth_date": {
+            "text": "3 October 1981"
+          },
+          "birth_place": {
+            "text": "Agokha, Ruebisa, Wangdue Phodrang"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.nationalcouncil.bt/en/member/member_detail/24",
+          "title": "Hon. Tashi Dorji",
+          "website": "www.nationalcouncil.bt",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.kuenselonline.com/national-council-elects-incumbents-as-chairpersons/",
+          "title": "National Council elects incumbents as chairpersons",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

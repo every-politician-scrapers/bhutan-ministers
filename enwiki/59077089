@@ -1,0 +1,184 @@
+{
+  "title": "Jai Bir Rai",
+  "pageID": 59077089,
+  "categories": [
+    "Living people",
+    "Bhutanese politicians",
+    "1973 births",
+    "Bhutanese MNAs 2018–2023",
+    "Lotay Tshering ministry",
+    "Druk Nyamrup Tshogpa politicians",
+    "Druk Nyamrup Tshogpa MNAs"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jai Bir Rai (c.",
+              "formatting": {
+                "bold": [
+                  "Jai Bir Rai"
+                ]
+              }
+            },
+            {
+              "text": "1973) is a Bhutanese politician who has been Minister for Education since November 2018.",
+              "links": [
+                {
+                  "text": "Bhutanese",
+                  "type": "internal",
+                  "page": "Bhutan"
+                },
+                {
+                  "text": "Minister for Education",
+                  "type": "internal",
+                  "page": "Ministry of Education (Bhutan)"
+                }
+              ]
+            },
+            {
+              "text": "He has been a member of the National Assembly of Bhutan, since October 2018.",
+              "links": [
+                {
+                  "text": "National Assembly of Bhutan",
+                  "type": "internal",
+                  "page": "National Assembly (Bhutan)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bhutanese politician",
+          "template": "short description"
+        },
+        {
+          "date": "May 2020",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Lyonpo"
+          },
+          "name": {
+            "text": "Jai Bir Rai"
+          },
+          "native_name_lang": {
+            "text": "dz"
+          },
+          "image": {
+            "text": "Jai Bir Rai.jpg"
+          },
+          "office": {
+            "text": "Minister for Education",
+            "links": [
+              {
+                "text": "Minister for Education",
+                "type": "internal",
+                "page": "Ministry of Education (Bhutan)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 November 2018"
+          },
+          "primeminister": {
+            "text": "Lotay Tshering",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lotay Tshering"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Norbu Wangchuk",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Norbu Wangchuk"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the National Assembly of Bhutan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Bhutan"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "31 October 2018"
+          },
+          "predecessor1": {
+            "text": "Rinzin Dorji",
+            "links": [
+              {
+                "text": "Rinzin Dorji",
+                "type": "internal",
+                "page": "Rinzin Dorji (politician)"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "Phuentsholing"
+          },
+          "birth_date": {
+            "text": "c. 1973"
+          },
+          "alma_mater": {
+            "text": "Maastricht School of Management",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maastricht School of Management"
+              }
+            ]
+          },
+          "party": {
+            "text": "Druk Nyamrup Tshogpa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Druk Nyamrup Tshogpa"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.cabinet.gov.bt/?p=1927",
+          "title": "His Majesty The King conferred Dakyen to the new Prime Minister and cabinet ministers - Cabinet Secretariat",
+          "website": "www.cabinet.gov.bt",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.nab.gov.bt/en/member/member_detail/109",
+          "title": "Jai Bir Rai",
+          "website": "www.nab.gov.bt",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.mfa.gov.bt/?p=5947",
+          "title": "New Cabinet of the Royal Government of Bhutan sworn in on 7th November 2018. – Ministry of Foreign Affairs",
+          "website": "www.mfa.gov.bt",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

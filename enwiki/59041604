@@ -1,0 +1,190 @@
+{
+  "title": "Wangchuk Namgyel",
+  "pageID": 59041604,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Bhutanese MNAs 2018–2023",
+    "Bhutanese educators",
+    "Druk Nyamrup Tshogpa politicians",
+    "Speakers of the National Assembly (Bhutan)",
+    "University of Madras alumni",
+    "Druk Nyamrup Tshogpa MNAs"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wangchuk Namgyel (དབང་ཕྱུག་རྣམ་རྒྱལ།; born c. 1964) is a Bhutanese educationist and politician who is the current Speaker of the National Assembly of Bhutan, in office since November 2018.",
+              "links": [
+                {
+                  "text": "Speaker of the National Assembly of Bhutan",
+                  "type": "internal",
+                  "page": "National Assembly (Bhutan)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Wangchuk Namgyel"
+                ]
+              }
+            },
+            {
+              "text": "He has been a member of the National Assembly of Bhutan, since October 2018.",
+              "links": [
+                {
+                  "text": "National Assembly of Bhutan",
+                  "type": "internal",
+                  "page": "National Assembly (Bhutan)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Wangchuk Namgyal"
+          ],
+          "template": "distinguish"
+        },
+        {
+          "description": "Bhutanese politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2020",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Lyonpo",
+            "formatting": {
+              "italic": [
+                "Lyonpo"
+              ]
+            }
+          },
+          "name": {
+            "text": "Wangchuk Namgyel"
+          },
+          "native_name": {
+            "text": "དབང་ཕྱུག་རྣམ་རྒྱལ།"
+          },
+          "native_name_lang": {
+            "text": "dz"
+          },
+          "office": {
+            "text": "Speaker of the National Assembly of Bhutan",
+            "links": [
+              {
+                "text": "National Assembly of Bhutan",
+                "type": "internal",
+                "page": "National Assembly (Bhutan)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 November 2018"
+          },
+          "primeminister": {
+            "text": "Lotay Tshering",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lotay Tshering"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Tshencho Wangdi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tshencho Wangdi"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Jigme Zangpo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jigme Zangpo"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the National Assembly of Bhutan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Bhutan"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "31 October 2018"
+          },
+          "predecessor1": {
+            "text": "Kuenga"
+          },
+          "constituency1": {
+            "text": "Nyishog-Saephu"
+          },
+          "birth_place": {
+            "text": "c. 1964"
+          },
+          "party": {
+            "text": "Druk Nyamrup Tshogpa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Druk Nyamrup Tshogpa"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.nab.gov.bt/en/media/view_news_detail/473",
+          "title": "News:His Majesty the Druk Gyalpo confers Dakyen to the Speaker and the Leader of Opposition.",
+          "website": "nab.gov.bt",
+          "publisher": "National Assembly (Bhutan)",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://data.ipu.org/content/bhutan?chamber_id=13342",
+          "title": "Bhutan - National Assembly",
+          "website": "data.ipu.org",
+          "publisher": "Inter-Parliamentary Union",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.nab.gov.bt/en/member/member_detail/104",
+          "title": "Wangchuk Namgay",
+          "website": "www.nab.gov.bt",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.peldendrukpa.com/national-assembly/druk-nyamrup-tshogpa/wangchuk-namgyel",
+          "title": "Bhutan 2018 Elections",
+          "website": "www.peldendrukpa.com",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
