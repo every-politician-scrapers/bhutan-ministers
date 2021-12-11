@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Goongloen Gongma (Lt General) Batoo Tshering, DYG, DW, DT, DK, is the current Chief Operations Officer of the Royal Bhutan Army (COO).",
+              "text": "Goongloen Gongma (Lt General) Batoo Tshering, DYG, DRT, DW, DT, DK, is the current Chief Operations Officer of the Royal Bhutan Army (COO).",
               "links": [
                 {
                   "type": "internal",
@@ -132,7 +132,7 @@
             ]
           },
           "awards": {
-            "text": "Druk Yugyel Medal Drakpoi Wangyel Medal Drakpoi Thugsey Medal Drakpoi Khorlo Medal Drakpoi Rinchen Tsugtor Medal"
+            "text": "Druk Yugyel Medal Drakpoi Rinchen Tsugtor Medal Drakpoi Wangyel Medal Drakpoi Thugsey Medal Drakpoi Khorlo Medal"
           },
           "religion": {
             "text": "Buddhism",
