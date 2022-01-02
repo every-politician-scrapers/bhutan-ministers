@@ -165,26 +165,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.nab.gov.bt/en/member/member_detail/113",
-          "title": "Loknath Sharma",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.peldendrukpa.com/national-assembly/druk-nyamrup-tshogpa/loknath-sharma",
-          "title": "Bhutan 2018 Elections",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.mfa.gov.bt/?p=5947",
-          "title": "New Cabinet of the Royal Government of Bhutan sworn in on 7th November 2018. – Ministry of Foreign Affairs",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
