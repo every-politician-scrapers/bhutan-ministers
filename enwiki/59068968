@@ -155,29 +155,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.nab.gov.bt/en/member/member_detail/110",
-          "title": "Dechen Wangmo",
-          "website": "www.nab.gov.bt",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.peldendrukpa.com/national-assembly/druk-nyamrup-tshogpa/dechen-wangmo",
-          "title": "Bhutan 2018 Elections",
-          "website": "www.peldendrukpa.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.cabinet.gov.bt/?p=1927",
-          "title": "His Majesty The King conferred Dakyen to the new Prime Minister and cabinet ministers - Cabinet Secretariat",
-          "website": "www.cabinet.gov.bt",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

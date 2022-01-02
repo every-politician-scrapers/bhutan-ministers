@@ -152,38 +152,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.nab.gov.bt/en/media/view_news_detail/473",
-          "title": "News:His Majesty the Druk Gyalpo confers Dakyen to the Speaker and the Leader of Opposition.",
-          "website": "nab.gov.bt",
-          "publisher": "National Assembly (Bhutan)",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://data.ipu.org/content/bhutan?chamber_id=13342",
-          "title": "Bhutan - National Assembly",
-          "website": "data.ipu.org",
-          "publisher": "Inter-Parliamentary Union",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.nab.gov.bt/en/member/member_detail/104",
-          "title": "Wangchuk Namgay",
-          "website": "www.nab.gov.bt",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.peldendrukpa.com/national-assembly/druk-nyamrup-tshogpa/wangchuk-namgyel",
-          "title": "Bhutan 2018 Elections",
-          "website": "www.peldendrukpa.com",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -144,56 +144,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.rba.bt/chief",
-          "title": "Royal Bhutan Army",
-          "access-date": "2016-09-18",
-          "archive-url": "https://web.archive.org/web/20160904031629/http://www.rba.bt/chief",
-          "archive-date": "2016-09-04",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Officers promoted to rank of Lieutenant Colonel",
-          "url": "http://www.bbs.bt/news/?p=23478",
-          "accessdate": "2013-04-22",
-          "date": "2013-02-13",
-          "archive-url": "https://web.archive.org/web/20141213024110/http://www.bbs.bt/news/?p=23478",
-          "archive-date": "2014-12-13",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Dozin Batoo Tshering takes over as COO of RBA",
-          "newspaper": "Kuensel",
-          "date": "2005-11-02",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "RANK INSIGNIA - ARMY LAND FORCES",
-          "url": "http://www.uniforminsignia.org/?option=com_insigniasearch&Itemid=53&result=2931",
-          "accessdate": "2013-04-22",
-          "archive-url": "https://web.archive.org/web/20141213014208/http://www.uniforminsignia.org/?option=com_insigniasearch&Itemid=53&result=2931",
-          "archive-date": "2014-12-13",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "June 2020",
-          "template": "citation needed"
-        }
       ]
     }
   ]
