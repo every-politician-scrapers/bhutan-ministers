@@ -1,217 +1,26 @@
 {
-  "title": "Lotay Tshering",
-  "pageID": 58745899,
-  "categories": [
-    "Lotay Tshering",
-    "1969 births",
-    "Living people",
-    "Prime Ministers of Bhutan",
-    "Bhutanese urologists",
-    "Druk Nyamrup Tshogpa politicians",
-    "University of Dhaka alumni",
-    "Bangabandhu Sheikh Mujib Medical University alumni",
-    "Bhutanese MNAs 2018–2023",
-    "People from Thimphu District",
-    "Druk Nyamrup Tshogpa MNAs"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Lotay Tshering (བློ་གྲོས་ཚེ་རིང་; लोटे छिरिङ, born 10 May 1969) is a Bhutanese politician and physician who is the current Prime Minister of Bhutan,  in office since 7 November 2018.",
-              "links": [
-                {
-                  "text": "Prime Minister",
-                  "type": "internal",
-                  "page": "List of prime ministers of Bhutan"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bhutan"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Lotay Tshering"
-                ]
-              }
-            },
-            {
-              "text": "He has also been the president of Druk Nyamrup Tshogpa since 14 May 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Druk Nyamrup Tshogpa"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "14th Prime Minister of Bhutan",
-          "template": "short description"
-        },
-        {
-          "date": "February 2022",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1969",
-          "month": "5",
-          "day": "10",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "template": "politics of bhutan"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Lotay Tshering"
-          },
-          "native_name": {
-            "text": "བློ་གྲོས་ཚེ་རིང་"
-          },
-          "native_name_lang": {
-            "text": "dz"
-          },
-          "image": {
-            "text": "Prime Minister of Bhutan Dr. Lotay Tshering on December 28, 2018 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Tshering in 2018"
-          },
-          "office": {
-            "text": "Prime Minister of Bhutan",
-            "links": [
-              {
-                "text": "Prime Minister of Bhutan",
-                "type": "internal",
-                "page": "List of prime ministers of Bhutan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 November 2018"
-          },
-          "predecessor": {
-            "text": "Tshering Tobgay",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tshering Tobgay"
-              }
-            ]
-          },
-          "monarch": {
-            "text": "Jigme Khesar Namgyel Wangchuck",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jigme Khesar Namgyel Wangchuck"
-              }
-            ]
-          },
-          "office1": {
-            "text": "President of Druk Nyamrup Tshogpa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Druk Nyamrup Tshogpa"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "14 May 2018"
-          },
-          "predecessor1": {
-            "text": "Tandi Dorji",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tandi Dorji"
-              }
-            ]
-          },
-          "deputy1": {
-            "text": "Sherab Gyaltshen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sherab Gyaltshen"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the National Assembly of Bhutan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Assembly of Bhutan"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "31 October 2018"
-          },
-          "predecessor2": {
-            "text": "Yeshi Zimba"
-          },
-          "constituency2": {
-            "text": "South Thimphu"
-          },
-          "majority2": {
-            "text": "3,662",
-            "number": 3662
-          },
-          "birth_date": {
-            "text": "May 10, 1969"
-          },
-          "alma_mater": {
-            "text": "Mymensingh Medical College \nBangabandhu Sheikh Mujib Medical University \nUniversity of Canberra",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mymensingh Medical College"
-              },
-              {
-                "type": "internal",
-                "page": "Bangabandhu Sheikh Mujib Medical University"
-              },
-              {
-                "type": "internal",
-                "page": "University of Canberra"
-              }
-            ]
-          },
-          "party": {
-            "text": "Druk Nyamrup Tshogpa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Druk Nyamrup Tshogpa"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Lotay Tshering signature.svg"
-          },
-          "spouse": {
-            "text": "Ugyen Dema"
-          },
-          "children": {
-            "text": "3 (two adopted)"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Lotay Tshering",
+  "native_name": "བློ་གྲོས་ཚེ་རིང་",
+  "native_name_lang": "dz",
+  "image": "Prime Minister of Bhutan Dr. Lotay Tshering on December 28, 2018 (cropped).jpg",
+  "caption": "Tshering in 2018",
+  "office": "Prime Minister of Bhutan",
+  "term_start": "7 November 2018",
+  "predecessor": "Tshering Tobgay",
+  "monarch": "Jigme Khesar Namgyel Wangchuck",
+  "office1": "President of Druk Nyamrup Tshogpa",
+  "term_start1": "14 May 2018",
+  "predecessor1": "Tandi Dorji",
+  "deputy1": "Sherab Gyaltshen",
+  "office2": "Member of the National Assembly of Bhutan",
+  "term_start2": "31 October 2018",
+  "predecessor2": "Yeshi Zimba",
+  "constituency2": "South Thimphu",
+  "majority2": "3,662",
+  "birth_date": "May 10, 1969",
+  "alma_mater": "Mymensingh Medical College \nBangabandhu Sheikh Mujib Medical University \nUniversity of Canberra",
+  "party": "Druk Nyamrup Tshogpa",
+  "signature": "Lotay Tshering signature.svg",
+  "spouse": "Ugyen Dema",
+  "children": "3 (two adopted)"
 }
