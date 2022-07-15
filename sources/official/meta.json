@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Bhutan",
+      "id": "Q917"
+    },
+    "cabinet": {
+      "id": "Q109968941",
+      "start": "2018-11-07",
+      "parent": "Q2081864"
+    },
+    "source": {
+        "url":   "https://www.cabinet.gov.bt/the-cabinet/cabinet-ministers/",
+        "title": "Cabinet Ministers | Cabinet Secretariat",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/bhutan-ministers"
+}
